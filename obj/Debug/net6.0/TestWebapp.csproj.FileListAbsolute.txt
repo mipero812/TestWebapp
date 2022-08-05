@@ -1,0 +1,2 @@
+C:\Users\mika.ronkainen\Documents\GitHub\TestWebapp\bin\Debug\net6.0\TestWebapp.exe
+C:\Users\mika.ronkainen\Documents\GitHub\TestWebapp\bin\Debug\net6.0\TestWebapp.dll

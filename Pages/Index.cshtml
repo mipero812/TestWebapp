@@ -1,10 +1,57 @@
 ﻿@page
 @model IndexModel
 @{
-    ViewData["Title"] = "Home page";
+    ViewData["Title"] = "Muistio";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Tervetuloa to-do-listaan!</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Tehtävälista</title>
+
+    <img src="pinky.png" alt="Italian Trulli">
+</head>
+<body>
+	
+	<header>
+		<h1>Tehtävälista</h1>
+		<form id="new-task-form">
+			<input 
+				type="text" 
+				name="new-task-input" 
+				id="new-task-input" 
+				placeholder="Mitä olet suunnittellut?" />
+			<input 
+				type="submit"
+				id="new-task-submit" 
+				value="Lisää tehtävä" />
+		</form>
+	</header>
+	<main>
+		<section class="task-list">
+			<h2>Tehtävät</h2>
+
+			<div id="tasks">
+
+				<!-- <div class="task">
+					<div class="content">
+						<input 
+							type="text" 
+							class="text" 
+							value="A new task"
+							readonly>
+					</div>
+					<div class="actions">
+						<button class="edit">Edit</button>
+						<button class="delete">Delete</button>
+					</div>
+				</div> -->
+
+			</div>
+		</section>
+	</main>
+
+	<script src="site.js"></script>
+</body>
+</html>

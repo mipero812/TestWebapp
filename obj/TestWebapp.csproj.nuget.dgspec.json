@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mika.ronkainen\\Documents\\Omat\\WA2\\TestWebapp\\TestWebapp.csproj": {}
+    "C:\\Users\\mika.ronkainen\\Documents\\GitHub\\TestWebapp\\TestWebapp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mika.ronkainen\\Documents\\Omat\\WA2\\TestWebapp\\TestWebapp.csproj": {
+    "C:\\Users\\mika.ronkainen\\Documents\\GitHub\\TestWebapp\\TestWebapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mika.ronkainen\\Documents\\Omat\\WA2\\TestWebapp\\TestWebapp.csproj",
+        "projectUniqueName": "C:\\Users\\mika.ronkainen\\Documents\\GitHub\\TestWebapp\\TestWebapp.csproj",
         "projectName": "TestWebapp",
-        "projectPath": "C:\\Users\\mika.ronkainen\\Documents\\Omat\\WA2\\TestWebapp\\TestWebapp.csproj",
+        "projectPath": "C:\\Users\\mika.ronkainen\\Documents\\GitHub\\TestWebapp\\TestWebapp.csproj",
         "packagesPath": "C:\\Users\\mika.ronkainen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mika.ronkainen\\Documents\\Omat\\WA2\\TestWebapp\\obj\\",
+        "outputPath": "C:\\Users\\mika.ronkainen\\Documents\\GitHub\\TestWebapp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mika.ronkainen\\AppData\\Roaming\\NuGet\\NuGet.Config"

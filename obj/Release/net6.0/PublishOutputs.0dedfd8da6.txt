@@ -1,0 +1,7 @@
+C:\Users\mika.ronkainen\Documents\GitHub\TestWebapp\bin\Release\net6.0\publish\TestWebapp.exe
+C:\Users\mika.ronkainen\Documents\GitHub\TestWebapp\bin\Release\net6.0\publish\appsettings.Development.json
+C:\Users\mika.ronkainen\Documents\GitHub\TestWebapp\bin\Release\net6.0\publish\appsettings.json
+C:\Users\mika.ronkainen\Documents\GitHub\TestWebapp\bin\Release\net6.0\publish\TestWebapp.dll
+C:\Users\mika.ronkainen\Documents\GitHub\TestWebapp\bin\Release\net6.0\publish\TestWebapp.deps.json
+C:\Users\mika.ronkainen\Documents\GitHub\TestWebapp\bin\Release\net6.0\publish\TestWebapp.runtimeconfig.json
+C:\Users\mika.ronkainen\Documents\GitHub\TestWebapp\bin\Release\net6.0\publish\TestWebapp.pdb
